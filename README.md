@@ -130,7 +130,7 @@ I'm still learning, experimenting, and improving with every project.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flvyw&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/flvyw/flvyw/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
