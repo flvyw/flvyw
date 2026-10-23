@@ -16,6 +16,8 @@
 <a href="mailto:maheshkumar64b@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-171b35?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/1530509288785707114"><img src="https://img.shields.io/badge/Discord-Connect-171b35?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=flvyw&style=flat-square&color=818cf8&label=PROFILE+VISITORS" alt="Profile views"/>
 
 </div>
@@ -24,11 +26,11 @@
 
 ## `01` — About Me | 自己紹介
 
-<table>
+<table width="100%">
 <tr>
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img src="./bochi.gif" width="220" alt="Bochi GIF"/>
+<img src="./bochi.gif" width="100%" alt="Bochi GIF"/>
 
 <br/><br/>
 
@@ -37,14 +39,15 @@
 <sub>Curious mind. Endless possibilities.</sub>
 
 </td>
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
+
+### `> whoami`
 
 ```yaml
-profile:
-  name: Mahesh Kumar
-  alias: flvyw
-  education: BCA Student
-  os: Arch Linux
+name: Mahesh Kumar
+alias: flvyw
+education: BCA Student
+os: Arch Linux
 
 currently_learning:
   - Full-Stack Development
@@ -72,6 +75,8 @@ I'm a BCA student exploring programming, full-stack development, and the world o
 
 I'm still learning, experimenting, and improving with every project.
 
+---
+
 ## `02` — Tech Stack | 技術
 
 <div align="center">
@@ -84,7 +89,7 @@ I'm still learning, experimenting, and improving with every project.
 
 <img src="https://skillicons.dev/icons?i=linux,git,bash,vscode&theme=dark" alt="Linux, Git, Bash and VSCodium"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Editor-VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white"/>
@@ -92,35 +97,52 @@ I'm still learning, experimenting, and improving with every project.
 
 </div>
 
+---
+
 ## `03` — GitHub Statistics | 開発統計
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=flvyw&show_icons=true&hide_border=true&bg_color=0b0e17&title_color=a5b4fc&text_color=c9d1d9&icon_color=818cf8&ring_color=818cf8&include_all_commits=true" height="180" alt="GitHub statistics"/>
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvyw&layout=compact&hide_border=true&bg_color=0b0e17&title_color=a5b4fc&text_color=c9d1d9&langs_count=8" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=flvyw&show_icons=true&hide_border=true&bg_color=0b0e17&title_color=a5b4fc&text_color=c9d1d9&icon_color=818cf8&include_all_commits=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvyw&layout=compact&hide_border=true&bg_color=0b0e17&title_color=a5b4fc&text_color=c9d1d9&langs_count=6" width="100%" alt="Most used programming languages"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=flvyw&theme=tokyonight-duo&hide_border=true&background=0B0E17&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=flvyw&theme=tokyonight-duo&hide_border=true&background=0B0E17&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" width="85%" alt="GitHub contribution streak"/>
 
 </div>
+
+---
 
 ## `04` — Contribution Activity | コントリビューション
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flvyw&bg_color=0b0e17&color=c9d1d9&line=818cf8&point=a5b4fc&area=true&area_color=292e53&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flvyw&bg_color=0b0e17&color=c9d1d9&line=818cf8&point=a5b4fc&area=true&area_color=292e53&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
+
+---
 
 ## `05` — A Little Inspiration | インスピレーション
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Random developer quote"/>
 
-<br/>
+<br/><br/>
 
 *“The journey of a thousand miles begins with a single step.”*
 
@@ -135,6 +157,8 @@ I'm still learning, experimenting, and improving with every project.
 *まだまだこれから。*
 
 **Still learning. Still building. Always curious.**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:35416b,50:171b35,100:08090f" width="100%"/>
 
