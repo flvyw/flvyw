@@ -28,7 +28,7 @@
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="assets/bochi.gif" width="220" alt="loading..."/>
+<img src="./bochi.gif" width="220" alt="Bochi GIF"/>
 
 <br/><br/>
 
