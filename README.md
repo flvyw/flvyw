@@ -140,10 +140,6 @@ I'm still learning, experimenting, and improving with every project.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Random developer quote"/>
-
-<br/><br/>
-
 *“The journey of a thousand miles begins with a single step.”*
 
 </div>
